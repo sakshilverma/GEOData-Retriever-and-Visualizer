@@ -132,9 +132,7 @@ myData = [
    ...
 ];
 
-This is a JavaScript list of lists.  The syntax for JavaScript
-list constants is very similar to Python so the syntax should
-be familiar to you.
+This is a JavaScript list of lists.  
 
 Simply open where.html in a browser to see the locations.  You
 can hover over each map pin to find the location that the
